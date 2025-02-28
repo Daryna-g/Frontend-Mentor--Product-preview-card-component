@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-rAN4BR9s1r)
-- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Recipe-page/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-9qgaSC-C-T)
+- Live Site URL: [Live Site](https://daryna-g.github.io/Frontend-Mentor--Product-preview-card-component/)
 
 ## My process
 
